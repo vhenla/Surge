@@ -1,0 +1,16 @@
+# PT站不走surge
+
+#内站
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,audiences.me
+
+#外站
+DOMAIN-SUFFIX,iptorrents.com
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,torrentleech.org
+
